@@ -307,30 +307,6 @@ These additions could turn the current dashboard into a more comprehensive e-com
 
 ---
 
-##  Suggested Repository Structure
-
-```text
-E-Commerce-Customer-Analytics/
-│
-├──  PowerBI/
-│   └── E-Commerce-Customer-Analytics.pbix
-│
-├──  Dataset/
-│   └── ecommerce_dataset.csv
-│
-├──  Report/
-│   └── Ecommerce_Customer_Analytics_Report.docx
-│
-├──  Screenshots/
-│   └── dashboard.png
-│
-└── README.md
-```
-
-> File names can be changed according to the files you actually upload to the repository.
-
----
-
 ##  Dashboard Preview
 
 <img width="500" height="400" alt="marketting performance" src="https://github.com/user-attachments/assets/29e130de-8b64-4ec2-8c1f-fa7c4b6549f8" />
@@ -377,7 +353,7 @@ The project also provides a foundation for future improvements such as customer 
 
 **Project:** E-Commerce Customer Analytics
 **Domain:** Data Analytics / Business Intelligence
-**Tool:** Microsoft Power BI
+**Tool:** Microsoft Power BI & Excel
 
 ---
 
