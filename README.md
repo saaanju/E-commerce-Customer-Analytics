@@ -256,9 +256,6 @@ The dashboard provides several analytical perspectives:
 * Multiple KPIs provide a broader view of business performance.
 * Interactive filters allow users to perform focused analysis.
 
-> **Note:** The project is primarily descriptive. The dashboard identifies patterns in the available dataset but does not establish causal relationships.
-
----
 
 ##  Business Relevance
 
