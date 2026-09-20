@@ -1,6 +1,6 @@
-# 🛒 E-Commerce Customer Analytics
+#  E-Commerce Customer Analytics
 
-## 📊 Power BI Data Analytics Project
+##  Power BI Data Analytics Project
 
 **E-Commerce Customer Analytics** is a data analytics and visualization project developed using **Microsoft Power BI**. The project analyzes e-commerce data to understand sales performance, product categories, customer geography, payment methods, returns, shipping costs, taxes, and traffic sources.
 
@@ -8,7 +8,7 @@ The project transforms raw e-commerce data into an **interactive Power BI dashbo
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 E-commerce businesses generate large amounts of data from customer transactions, products, payments, returns, marketing channels, and financial activities.
 
@@ -25,9 +25,12 @@ The dashboard allows users to:
 * Review shipping costs and taxes
 * Filter the analysis by country, category, and date
 
+<img width="1330" height="756" alt="dashboard" src="https://github.com/user-attachments/assets/ee3b064e-4ba6-480b-b21b-6e73ceb0767f" />
+
+
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 The main objectives of this project are:
 
@@ -42,7 +45,7 @@ The main objectives of this project are:
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 | Tool / Technology      | Purpose                                   |
 | ---------------------- | ----------------------------------------- |
@@ -54,11 +57,11 @@ The main objectives of this project are:
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 The project uses an e-commerce dataset containing information related to:
 
-### 🛍️ Product & Sales
+###  Product & Sales
 
 * Product Category
 * Quantity
@@ -68,21 +71,21 @@ The project uses an e-commerce dataset containing information related to:
 * Tax
 * Shipping Cost
 
-### 👤 Customer
+###  Customer
 
 * Customer Country
 * Customer-related information available in the dataset
 
-### 💳 Transaction
+###  Transaction
 
 * Order Date
 * Payment Method
 
-### 📢 Marketing
+###  Marketing
 
 * Traffic Source
 
-### 📦 Operations
+###  Operations
 
 * Return Status
 * Shipping Cost
@@ -92,7 +95,7 @@ The dataset provides the underlying information required to create the Power BI 
 
 ---
 
-## 📊 Dashboard Features
+##  Dashboard Features
 
 ### 1. Key Performance Indicators
 
@@ -121,7 +124,7 @@ A category with higher sales quantity does not necessarily have the same level o
 
 ---
 
-### 3. 🌍 Customer Geographic Analysis
+### 3.  Customer Geographic Analysis
 
 The dashboard includes a geographic view of customer activity.
 
@@ -134,7 +137,7 @@ Users can:
 
 ---
 
-### 4. 💳 Payment Method Analysis
+### 4.  Payment Method Analysis
 
 The dashboard compares purchase quantities across different payment methods.
 
@@ -142,7 +145,7 @@ This provides a descriptive view of customer transaction preferences represented
 
 ---
 
-### 5. 🔄 Returns Analysis
+### 5.  Returns Analysis
 
 Return analysis is included to understand return activity across:
 
@@ -154,7 +157,7 @@ The analysis can help identify categories or periods that may require further in
 
 ---
 
-### 6. 📢 Traffic Source Analysis
+### 6.  Traffic Source Analysis
 
 Traffic sources are analyzed in relation to revenue.
 
@@ -162,7 +165,7 @@ This provides a view of how different customer-acquisition channels are associat
 
 ---
 
-### 7. 🚚 Shipping Cost & Tax Analysis
+### 7.  Shipping Cost & Tax Analysis
 
 Shipping cost and tax are included as additional financial and operational measures.
 
@@ -170,19 +173,19 @@ This provides a broader view of transaction economics instead of focusing only o
 
 ---
 
-### 8. 🎛️ Interactive Filters
+### 8.  Interactive Filters
 
 The dashboard contains interactive filters for:
 
-* 🌍 Country
-* 🛍️ Product Category
-* 📅 Order Date
+*  Country
+*  Product Category
+*  Order Date
 
 These filters allow users to move from an overall business view to a more focused analysis.
 
 ---
 
-## 🔄 Project Methodology
+##  Project Methodology
 
 The project follows a structured business intelligence workflow:
 
@@ -241,7 +244,7 @@ The final dashboard is reviewed to ensure that the visualizations communicate th
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 The dashboard provides several analytical perspectives:
 
@@ -257,7 +260,7 @@ The dashboard provides several analytical perspectives:
 
 ---
 
-## 💼 Business Relevance
+##  Business Relevance
 
 This project demonstrates how **Business Intelligence (BI)** can be applied to e-commerce data.
 
@@ -275,7 +278,7 @@ The dashboard can also make complex datasets easier for non-technical users to u
 
 ---
 
-## ⚠️ Limitations
+##  Limitations
 
 The project has several limitations:
 
@@ -288,40 +291,40 @@ The project has several limitations:
 
 ---
 
-## 🚀 Future Scope
+##  Future Scope
 
 The project can be further enhanced by adding:
 
-* 👥 Customer segmentation
-* 🔁 Customer retention analysis
-* 📅 Cohort analysis
-* 📈 Sales forecasting
-* 🔄 Detailed return-reason analysis
-* 💰 Additional operational cost analysis
-* 📊 Marketing campaign analysis
-* 🔎 Drill-through pages
-* 🔄 Automated data refresh
-* 🌐 Connection to regularly updated data sources
+*  Customer segmentation
+*  Customer retention analysis
+*  Cohort analysis
+*  Sales forecasting
+*  Detailed return-reason analysis
+*  Additional operational cost analysis
+*  Marketing campaign analysis
+*  Drill-through pages
+*  Automated data refresh
+*  Connection to regularly updated data sources
 
 These additions could turn the current dashboard into a more comprehensive e-commerce decision-support solution.
 
 ---
 
-## 📁 Suggested Repository Structure
+##  Suggested Repository Structure
 
 ```text
 E-Commerce-Customer-Analytics/
 │
-├── 📊 PowerBI/
+├──  PowerBI/
 │   └── E-Commerce-Customer-Analytics.pbix
 │
-├── 📂 Dataset/
+├──  Dataset/
 │   └── ecommerce_dataset.csv
 │
-├── 📄 Report/
+├──  Report/
 │   └── Ecommerce_Customer_Analytics_Report.docx
 │
-├── 🖼️ Screenshots/
+├──  Screenshots/
 │   └── dashboard.png
 │
 └── README.md
@@ -331,21 +334,17 @@ E-Commerce-Customer-Analytics/
 
 ---
 
-## 📸 Dashboard Preview
+##  Dashboard Preview
 
-Add screenshots of your Power BI dashboard here.
+<img width="500" height="400" alt="marketting performance" src="https://github.com/user-attachments/assets/29e130de-8b64-4ec2-8c1f-fa7c4b6549f8" />
+<img width="500" height="400" alt="customer segments" src="https://github.com/user-attachments/assets/647fa291-bf54-4829-9d43-52cc80bca3a9" />
+<img width="500" height="400" alt="payment analysis" src="https://github.com/user-attachments/assets/8df4688f-5cba-42b6-a2c4-e6a2d0487c42" />
+<img width="500" height="400" alt="return rate" src="https://github.com/user-attachments/assets/9035843b-1f77-424d-821b-8fec9e5800d1" />
+<img width="500" height="400" alt="sum of quantity" src="https://github.com/user-attachments/assets/f6433a7e-cb87-4622-a4bc-3aeabfee1c40" />
+<img width="500" height="400" alt="world view" src="https://github.com/user-attachments/assets/f04a1588-b78a-4a77-b468-ce171a08fa8d" />
 
-For example:
 
-```markdown
-![E-Commerce Customer Analytics Dashboard](Screenshots/dashboard.png)
-```
-
-You can add multiple screenshots if your dashboard has different pages.
-
----
-
-## 📚 Project Documentation
+##  Project Documentation
 
 The detailed academic report contains the complete project description, including:
 
@@ -365,7 +364,7 @@ The detailed academic report contains the complete project description, includin
 
 ---
 
-## 🏁 Conclusion
+##  Conclusion
 
 The **E-Commerce Customer Analytics** project demonstrates how Microsoft Power BI can be used to transform e-commerce data into an interactive business intelligence dashboard.
 
@@ -375,9 +374,9 @@ The project also provides a foundation for future improvements such as customer 
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
-**[Your Name]**
+**Sanju Jana**
 
 **Project:** E-Commerce Customer Analytics
 **Domain:** Data Analytics / Business Intelligence
@@ -385,6 +384,6 @@ The project also provides a foundation for future improvements such as customer 
 
 ---
 
-## ⭐ If You Find This Project Useful
+##  If You Find This Project Useful
 
-Feel free to ⭐ star the repository and explore the project!
+Feel free to  star the repository and explore the project!
