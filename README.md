@@ -309,12 +309,12 @@ These additions could turn the current dashboard into a more comprehensive e-com
 
 ##  Dashboard Preview
 
-<img width="500" height="400" alt="marketting performance" src="https://github.com/user-attachments/assets/29e130de-8b64-4ec2-8c1f-fa7c4b6549f8" />
-<img width="500" height="400" alt="customer segments" src="https://github.com/user-attachments/assets/647fa291-bf54-4829-9d43-52cc80bca3a9" />
-<img width="500" height="400" alt="payment analysis" src="https://github.com/user-attachments/assets/8df4688f-5cba-42b6-a2c4-e6a2d0487c42" />
-<img width="500" height="400" alt="return rate" src="https://github.com/user-attachments/assets/9035843b-1f77-424d-821b-8fec9e5800d1" />
-<img width="500" height="400" alt="sum of quantity" src="https://github.com/user-attachments/assets/f6433a7e-cb87-4622-a4bc-3aeabfee1c40" />
-<img width="500" height="400" alt="world view" src="https://github.com/user-attachments/assets/f04a1588-b78a-4a77-b468-ce171a08fa8d" />
+<img width="400" height="400" alt="marketting performance" src="https://github.com/user-attachments/assets/29e130de-8b64-4ec2-8c1f-fa7c4b6549f8" />
+<img width="400" height="400" alt="customer segments" src="https://github.com/user-attachments/assets/647fa291-bf54-4829-9d43-52cc80bca3a9" />
+<img width="400" height="400" alt="payment analysis" src="https://github.com/user-attachments/assets/8df4688f-5cba-42b6-a2c4-e6a2d0487c42" />
+<img width="400" height="400" alt="return rate" src="https://github.com/user-attachments/assets/9035843b-1f77-424d-821b-8fec9e5800d1" />
+<img width="400" height="400" alt="sum of quantity" src="https://github.com/user-attachments/assets/f6433a7e-cb87-4622-a4bc-3aeabfee1c40" />
+<img width="400" height="400" alt="world view" src="https://github.com/user-attachments/assets/f04a1588-b78a-4a77-b468-ce171a08fa8d" />
 
 
 ##  Project Documentation
